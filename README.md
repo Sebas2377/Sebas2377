@@ -16,8 +16,8 @@ Soy Estudiante del Instituto Tecnologico de TIjuana✨✨✨
 | Hora | Lunes                               | Martes                              | Miercoles                           |                             Jueves  | Viernes                             |
 |------|-------------------------------------|-------------------------------------|-------------------------------------|------------------------------------:|-------------------------------------|
 | 4pm  | Taller de Investigacion II                 | Taller de Investigacion II                | Taller de Investigacion II                |                 Taller de Investigacion II |                                     |
-| 5pm  | Sistemas Programables        | Sistemas Programables        | Sistemas Programables        |        Sistemas Programables | Sistemas Programables        |
-| 6pm  | Taller de Sistemas Operativos            | Taller de Sistemas Operativos            | Taller de Sistemas Operativos            |            ETaller de Sistemas Operativos | Taller de Sistemas Operativos            |
+| 5pm  | Sistemas Programables        | Sistemas Programables        | Sistemas Programables        |        Sistemas Programables |         |
+| 6pm  | Taller de Sistemas Operativos            | Taller de Sistemas Operativos            | Taller de Sistemas Operativos            |            Taller de Sistemas Operativos |             |
 | 7pm  | Admon. de Redes                | Admon. de Redes                | Admon. de Redes                | Admon. de Redes                |                                     |
 
 
